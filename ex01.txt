@@ -1,1 +1,2 @@
 Exemplo de texto criado para fazer testes
+Exemplo de commit de um colaborador
